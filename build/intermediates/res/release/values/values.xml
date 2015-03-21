@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Rahul/TodoMan/app/src/main/res/values/priority.xml -->
+    <eat-comment/>
+    <string-array name="priorities">
+        <item>Urgent</item>
+        <item>Reminder</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Rahul/TodoMan/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Task Manager</string>
+    <string name="hello">Hello World, Todo!</string>
+    <string name="menu_delete">Delete Task</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="no_todos">Currently there are no task to be shown</string>
+    <string name="todo_description">Delete Todo</string>
+    <string name="todo_edit_confirm">Confirm</string>
+    <string name="todo_edit_description">Description</string>
+    <string name="todo_edit_summary">Summary</string>
+    <string name="todo_summary">Summary</string>
+</resources>
